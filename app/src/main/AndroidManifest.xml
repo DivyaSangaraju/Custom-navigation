@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Androidcrse">
+        <activity android:name=".Signup"></activity>
+        <activity android:name=".Datapass" />
         <activity
             android:name=".CustomNavigation"
             android:theme="@style/AppTheme.NoActionBar" />
